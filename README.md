@@ -1,2 +1,0 @@
-# Nimi
-Harjoitus
